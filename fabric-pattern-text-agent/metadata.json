@@ -1,0 +1,6 @@
+{
+  "name": "Fabric Pattern Text Agent",
+  "description": "An intelligent agent that leverages Fabric patterns to structure text for various use cases like content creation, RAG, and analysis using the Gemini API. Users can select and combine patterns to dynamically build prompts.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
